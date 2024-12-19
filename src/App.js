@@ -1,7 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
-import Influencers fom "./Influencers"
 
+import './App.css';
+import Influencers from './Influencers';
 function App() {
   return (
     <Influencers/>
@@ -9,3 +8,4 @@ function App() {
 }
 
 export default App;
+ 
